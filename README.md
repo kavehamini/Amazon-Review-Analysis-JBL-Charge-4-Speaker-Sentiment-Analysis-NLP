@@ -22,6 +22,8 @@ The rating distribution for the JBL Speaker in the dataset has been illustrated 
 
 As it can be observed, most of the reviewes have rated the product with 5 stars (awesome).
 
+The figure below depicts that most of the reviews with good and awsome ratings have not received any comments (feedback).
+<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/2.png" width="500" height="500">
 
 ## Conclusion
 
