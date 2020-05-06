@@ -52,7 +52,7 @@ The performace for all models has been good with above 85% accuracy and replacin
 
 ## Conclusion
 
-The amazon review data were successfully scraped, analyzed and visualized. Also machine learning models ofNaive bayes Multinominal Classifier and KNNNaive bayes Multinominal Classifier and KNN were employed to analyzed the sentiment of the reviewers.  
+The amazon review data were successfully scraped, analyzed and visualized. Also machine learning models ofNaive bayes Multinominal Classifier and KNN were employed to analyzed the sentiment of the reviewers.  
 
 
 ## Author
