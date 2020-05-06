@@ -43,10 +43,16 @@ Also 92% of the buyers are satisfied with their purchse and have rated the produ
 It has been observed that the better the rating the shorter the length of the review.
 <img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/9.png">
 
+## Machine Learning and Sentiment Analysis
+
+Naive bayes Multinominal Classifier and KNN have been used as the Machine Learning models to analyze the reviews. feedback,awesome (5 star rating), good (3 star or more rating) and rating have been used as the dependent variable to be predicted (y). Review titles after removal of stop words and vectorization have been used as the independent variable (X).
+
+The performace for all models has been good with above 85% accuracy and replacing the review title with review text to predict good variable ( 3 star or better reviews) did not change the accuracy of the model.
+
 
 ## Conclusion
 
-
+The amazon review data were successfully scraped, analyzed and visualized. Also machine learning models ofNaive bayes Multinominal Classifier and KNNNaive bayes Multinominal Classifier and KNN were employed to analyzed the sentiment of the reviewers.  
 
 
 ## Author
