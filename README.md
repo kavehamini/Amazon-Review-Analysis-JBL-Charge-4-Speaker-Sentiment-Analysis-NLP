@@ -28,6 +28,9 @@ The figure below depicts that most of the reviews with good and awsome ratings h
 In the figure below, number of each rating for each color of JBL Speaker has been shown. as it can be seen, most of theratings are 5 stars (awesome).
 <img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/3.png">
 
+And in the next figure, the number of awesome (5star)/not awesome ratings for each color of JBL Speaker has been depicted.
+<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/4.png">
+
 
 ## Conclusion
 
