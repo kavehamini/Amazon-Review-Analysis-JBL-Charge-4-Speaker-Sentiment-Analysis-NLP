@@ -17,7 +17,9 @@ splinter and chromedriver.exe have been used for scraping. Python and its module
 
 ## Data Analysis and Visualizations
 
-<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/1.png" width="300" height="300">
+The rating distribution for the JBL Speaker in the dataset has been illustrated in the figure below.
+
+<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/1.png" width="500" height="500">
 
 
 ## Conclusion
