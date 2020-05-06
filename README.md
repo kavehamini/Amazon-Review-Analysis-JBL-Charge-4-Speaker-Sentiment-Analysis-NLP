@@ -33,8 +33,12 @@ And in the next figure, the number of awesome (5star)/not awesome ratings for ea
 
 The pie chart showing the distribution of colors of speakers in the dataset indicates that most of the speakers are black.
 <img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/5.png">
+
 An Investigation of the length of the reviews for the JBL Speaker show that most of the satisfied buyers have left shorter reviews.
 <img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/7.png">
+
+Also 92% of the buyers are satisfied with their purchse and have rated the product good (3 stars or more).
+<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/8.png">
 
 
 ## Conclusion
