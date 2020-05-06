@@ -40,6 +40,9 @@ An Investigation of the length of the reviews for the JBL Speaker show that most
 Also 92% of the buyers are satisfied with their purchse and have rated the product good (3 stars or more).
 <img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/8.png">
 
+It has been observed that the better the rating the shorter the length of the review.
+<img src="https://github.com/kavehamini/Amazon-Review-Analysis-JBL-Charge-4-Speaker-Sentiment-Analysis-NLP/blob/master/9.png">
+
 
 ## Conclusion
 
