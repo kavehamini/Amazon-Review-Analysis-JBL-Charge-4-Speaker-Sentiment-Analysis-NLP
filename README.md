@@ -14,3 +14,12 @@ The data used in this project have been scraped from https://www.amazon.com/ and
 ## Tools Used
 
 splinter and chromedriver.exe have been used for scraping. Python and its modules such as pandas, numpy, matplotlib, seaborn, etc have been used for analysis of the data. Also sklearn module of python has been used to create Naive Bayes Multinominal classifier and KNN machine learning models. 
+
+
+## Conclusion
+
+
+
+## Author
+
+This project has been inspired by many similar projects on GitHub.com and has been performed by Kaveh Amini (kvhmni@gmail.com).
