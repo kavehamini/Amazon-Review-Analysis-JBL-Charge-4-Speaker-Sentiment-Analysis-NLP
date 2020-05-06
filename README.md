@@ -1,4 +1,4 @@
-# Amazon Review Analysis for JBL Charge 4 Waterproof Portable Bluetooth Speaker -Sentiment Analysis-NLP
+# Amazon Review Analysis for JBL Charge 4 Speaker -Sentiment Analysis-NLP
  
  
  ## Introduction
